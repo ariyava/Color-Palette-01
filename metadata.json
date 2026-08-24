@@ -1,0 +1,6 @@
+{
+  "name": "Artist Color Palette Mixer",
+  "description": "An interactive, artistic paint and digital color mixing canvas with AI-powered color naming, mood-to-palette generation, and mockup playground visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
